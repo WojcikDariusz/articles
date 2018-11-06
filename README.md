@@ -7,3 +7,5 @@ Functions:
   - publications filtering (via form)
   - querry search
   - exporting search results  
+
+Page: https://publikacje-zsbl.igf.edu.pl/
